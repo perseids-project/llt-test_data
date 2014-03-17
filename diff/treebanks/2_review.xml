@@ -1,6 +1,6 @@
 <treebank>
   <sentence id="1" document_id="Perseus:text:1999.02.0002" subdoc="Book=2:chapter=1" span="Cum0:dare0">
-    <word id="1" form="Cum" lemma="cum2" postag="c--------" head="20" relation="AuxC"/>
+    <word id="1" form="Cum" lemma="cum2" postag="c--------" head="19" relation="AuxC"/>
     <word id="2" form="esset" lemma="sum1" postag="v3sisa---" head="1" relation="ADV"/>
     <word id="3" form="Caesar" lemma="Caesar1" postag="n-s---mn-" head="2" relation="SBJ"/>
     <word id="4" form="in" lemma="in1" postag="r--------" head="2" relation="AuxP"/>
@@ -15,8 +15,8 @@
     <word id="13" form="demonstravimus" lemma="demonstro1" postag="v1pria---" head="11" relation="ADV"/>
     <word id="14" form="," lemma="comma1" postag="u--------" head="13" relation="AuxX"/>
     <word id="15" form="crebri" lemma="creber1" postag="a-p---mn-" head="18" relation="ATR"/>
-    <word id="16" form="ad" lemma="ad1" postag="r--------" head="19" relation="AuxP"/>
-    <word id="17" form="eum" lemma="is1" postag="p-s---ma-" head="16" relation="OBJ"/>
+    <word id="16" form="ad" lemma="ad2" postag="r--------" head="15" relation="AuxP"/>
+    <word id="17" form="eum" lemma="is1" postag="p-s---ma-" head="16" relation="ADV"/>
     <word id="18" form="rumores" lemma="rumor1" postag="n-p---mn-" head="19" relation="SBJ"/>
     <word id="19" form="adferebantur" lemma="affero1" postag="v3piip---" head="20" relation="PRED_CO"/>
     <word id="20" form="que" lemma="que1" postag="c--------" head="0" relation="COORD"/>

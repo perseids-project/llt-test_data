@@ -1,11 +1,11 @@
 <treebank>
   <sentence id="1" document_id="Perseus:text:1999.02.0002" subdoc="Book=2:chapter=1" span="Cum0:dare0">
-    <word id="1" form="Cum" lemma="cum2" postag="c--------" head="20" relation="AuxC"/>
+    <word id="1" form="Cum" lemma="cum1" postag="c--------" head="20" relation="AuxC"/>
     <word id="2" form="esset" lemma="sum1" postag="v3sisa---" head="1" relation="ADV"/>
     <word id="3" form="Caesar" lemma="Caesar1" postag="n-s---mn-" head="2" relation="SBJ"/>
     <word id="4" form="in" lemma="in1" postag="r--------" head="2" relation="AuxP"/>
     <word id="5" form="citeriore" lemma="citer1" postag="a-s---fbc" head="6" relation="ATR"/>
-    <word id="6" form="Gallia" lemma="gallia2" postag="n-s---fb-" head="4" relation="ADV"/>
+    <word id="6" form="Gallia" lemma="Gallia1" postag="n-s---fb-" head="4" relation="ADV"/>
     <word id="7" form="in" lemma="in1" postag="r--------" head="2" relation="AuxP"/>
     <word id="8" form="hibernis" lemma="hibernus1" postag="n-p---nb-" head="7" relation="ADV"/>
     <word id="9" form="," lemma="comma1" postag="u--------" head="13" relation="AuxX"/>
@@ -32,7 +32,7 @@
     <word id="30" form="tertiam" lemma="tertius1" postag="a-s---fa-" head="33" relation="ATR"/>
     <word id="31" form="esse" lemma="sum1" postag="v--pna---" head="34" relation="OBJ"/>
     <word id="32" form="Galliae" lemma="Gallia1" postag="n-s---fg-" head="33" relation="ATR"/>
-    <word id="33" form="partem" lemma="pars1" postag="n-s---fa-" head="31" relation="PNOM"/>
+    <word id="33" form="partem" lemma="pars1" postag="n-s---fa-" head="31" relation="OBJ"/>
     <word id="34" form="dixeramus" lemma="dico2" postag="v1plia---" head="27" relation="ATR"/>
     <word id="35" form="," lemma="comma1" postag="u--------" head="34" relation="AuxX"/>
     <word id="36" form="contra" lemma="contra1" postag="r--------" head="39" relation="AuxP"/>
@@ -46,10 +46,10 @@
     <word id="44" form="dare" lemma="do1" postag="v--pna---" head="40" relation="OBJ_CO"/>
   </sentence>
   <sentence id="21" document_id="Perseus:text:1999.02.0002" subdoc="Book=2:chapter=5" span="In3:erat0">
-    <word id="1" form="In" lemma="in1" postag="r--------" head="4" relation="AuxP"/>
+    <word id="1" form="In" lemma="in1" postag="r--------" head="5" relation="AuxP"/>
     <word id="2" form="eo" lemma="is1" postag="p-s---nb-" head="3" relation="ATR"/>
-    <word id="3" form="flumine" lemma="flumen1" postag="n-s---nb-" head="1" relation="ADV"/>
-    <word id="4" form="pons" lemma="pons1" postag="n-s---mn-" head="5" relation="OBJ"/>
+    <word id="3" form="flumine" lemma="flumen1" postag="n-s---nb-" head="1" relation="OBJ"/>
+    <word id="4" form="pons" lemma="pons1" postag="n-s---mn-" head="5" relation="SBJ"/>
     <word id="5" form="erat" lemma="sum1" postag="v3siia---" head="0" relation="PRED"/>
   </sentence>
 </treebank>
