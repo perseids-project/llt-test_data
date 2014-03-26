@@ -1,0 +1,2841 @@
+<?xml version="1.0"?>
+<aligned-text>
+  <language lnum="L1" xml:lang="latin"/>
+  <language lnum="L2" xml:lang="en"/>
+  <comment class="tbref" docid="1999.02.0066">
+    <match as="1" aw="1" ts="1" tw="1" len="12"/>
+    <match as="2" aw="1" ts="2" tw="1" len="25"/>
+    <match as="3" aw="1" ts="3" tw="1" len="16"/>
+    <match as="4" aw="1" ts="4" tw="1" len="11"/>
+    <match as="5" aw="1" ts="5" tw="1" len="14"/>
+    <match as="6" aw="1" ts="6" tw="1" len="10"/>
+    <match as="7" aw="1" ts="7" tw="1" len="5"/>
+    <match as="8" aw="1" ts="8" tw="1" len="8"/>
+    <match as="9" aw="1" ts="9" tw="1" len="9"/>
+    <match as="9" aw="10" ts="9" tw="10" lena="1" lent="2"/>
+    <match as="9" aw="11" ts="9" tw="12" len="8"/>
+    <match as="10" aw="1" ts="10" tw="1" len="30"/>
+    <match as="11" aw="1" ts="11" tw="1" len="12"/>
+    <match as="12" aw="1" ts="12" tw="1" len="15"/>
+    <match as="13" aw="1" ts="13" tw="1" len="15"/>
+    <match as="14" aw="1" ts="14" tw="1" len="16"/>
+    <match as="15" aw="1" ts="15" tw="1" len="16"/>
+    <match as="16" aw="1" ts="16" tw="1" len="21"/>
+    <match as="17" aw="1" ts="17" tw="1" len="5"/>
+    <match as="17" aw="6" ts="17" tw="6" lena="1" lent="2"/>
+    <match as="17" aw="7" ts="17" tw="8" len="4"/>
+    <match as="18" aw="1" ts="18" tw="1" len="14"/>
+  </comment>
+  <sentence id="1" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="1-1">
+        <text>Cynthia</text>
+        <refs nrefs="1-1"/>
+      </w>
+      <w n="1-2">
+        <text>prima</text>
+        <refs nrefs="1-3"/>
+      </w>
+      <w n="1-3">
+        <text>suis</text>
+      </w>
+      <w n="1-4">
+        <text>miserum</text>
+        <refs nrefs="1-7 1-8"/>
+      </w>
+      <w n="1-5">
+        <text>me</text>
+        <refs nrefs="1-5"/>
+      </w>
+      <w n="1-6">
+        <text>cepit</text>
+        <refs nrefs="1-4"/>
+      </w>
+      <w n="1-7">
+        <text>ocellis</text>
+        <refs nrefs="1-2"/>
+      </w>
+      <w n="1-8">
+        <text>,</text>
+      </w>
+      <w n="1-9">
+        <text>contactum</text>
+        <refs nrefs="1-12"/>
+      </w>
+      <w n="1-10">
+        <text>nullis</text>
+        <refs nrefs="1-14"/>
+      </w>
+      <w n="1-11">
+        <text>ante</text>
+        <refs nrefs="1-11"/>
+      </w>
+      <w n="1-12">
+        <text>cupidinibus</text>
+        <refs nrefs="1-13 1-15"/>
+      </w>
+      <w n="1-13">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="1-1">
+        <text>Cynthia's</text>
+        <refs nrefs="1-1"/>
+      </w>
+      <w n="1-2">
+        <text>eyes</text>
+        <refs nrefs="1-7"/>
+      </w>
+      <w n="1-3">
+        <text>first</text>
+        <refs nrefs="1-2"/>
+      </w>
+      <w n="1-4">
+        <text>took</text>
+        <refs nrefs="1-6"/>
+      </w>
+      <w n="1-5">
+        <text>me</text>
+        <refs nrefs="1-5"/>
+      </w>
+      <w n="1-6">
+        <text>,</text>
+      </w>
+      <w n="1-7">
+        <text>poor</text>
+        <refs nrefs="1-4"/>
+      </w>
+      <w n="1-8">
+        <text>unfortunate</text>
+        <refs nrefs="1-4"/>
+      </w>
+      <w n="1-9">
+        <text>captive</text>
+      </w>
+      <w n="1-10">
+        <text>,</text>
+      </w>
+      <w n="1-11">
+        <text>previously</text>
+        <refs nrefs="1-11"/>
+      </w>
+      <w n="1-12">
+        <text>affected</text>
+        <refs nrefs="1-9"/>
+      </w>
+      <w n="1-13">
+        <text>by</text>
+        <refs nrefs="1-12"/>
+      </w>
+      <w n="1-14">
+        <text>no</text>
+        <refs nrefs="1-10"/>
+      </w>
+      <w n="1-15">
+        <text>passion</text>
+        <refs nrefs="1-12"/>
+      </w>
+      <w n="1-16">
+        <text>:</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="2" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="2-1">
+        <text>tum</text>
+        <refs nrefs="2-1"/>
+      </w>
+      <w n="2-2">
+        <text>mihi</text>
+        <refs nrefs="2-6"/>
+      </w>
+      <w n="2-3">
+        <text>constantis</text>
+        <refs nrefs="2-9"/>
+      </w>
+      <w n="2-4">
+        <text>deiecit</text>
+        <refs nrefs="2-2 2-4 2-5"/>
+      </w>
+      <w n="2-5">
+        <text>lumina</text>
+        <refs nrefs="2-10"/>
+      </w>
+      <w n="2-6">
+        <text>fastus</text>
+        <refs nrefs="2-7"/>
+      </w>
+      <w n="2-7">
+        <text>et</text>
+        <refs nrefs="2-12"/>
+      </w>
+      <w n="2-8">
+        <text>caput</text>
+        <refs nrefs="2-15 2-17"/>
+      </w>
+      <w n="2-9">
+        <text>impositis</text>
+      </w>
+      <w n="2-10">
+        <text>pressit</text>
+        <refs nrefs="2-13"/>
+      </w>
+      <w n="2-11">
+        <text>Amor</text>
+        <refs nrefs="2-3"/>
+      </w>
+      <w n="2-12">
+        <text>pedibus</text>
+        <refs nrefs="2-14"/>
+      </w>
+      <w n="2-13">
+        <text>,</text>
+      </w>
+      <w n="2-14">
+        <text>donec</text>
+        <refs nrefs="2-19"/>
+      </w>
+      <w n="2-15">
+        <text>me</text>
+        <refs nrefs="2-24"/>
+      </w>
+      <w n="2-16">
+        <text>docuit</text>
+        <refs nrefs="2-22 2-23"/>
+      </w>
+      <w n="2-17">
+        <text>Castas</text>
+        <refs nrefs="2-31"/>
+      </w>
+      <w n="2-18">
+        <text>odisse</text>
+        <refs nrefs="2-29 2-30"/>
+      </w>
+      <w n="2-19">
+        <text>puellas</text>
+        <refs nrefs="2-32"/>
+      </w>
+      <w n="2-20">
+        <text>improbus</text>
+        <refs nrefs="2-26 2-27"/>
+      </w>
+      <w n="2-21">
+        <text>,</text>
+      </w>
+      <w n="2-22">
+        <text>et</text>
+        <refs nrefs="2-34"/>
+      </w>
+      <w n="2-23">
+        <text>nullo</text>
+        <refs nrefs="2-37"/>
+      </w>
+      <w n="2-24">
+        <text>vivere</text>
+        <refs nrefs="2-35 2-36"/>
+      </w>
+      <w n="2-25">
+        <text>consilio</text>
+        <refs nrefs="2-37"/>
+      </w>
+      <w n="2-26">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="2-1">
+        <text>then</text>
+        <refs nrefs="2-1"/>
+      </w>
+      <w n="2-2">
+        <text>did</text>
+        <refs nrefs="2-4"/>
+      </w>
+      <w n="2-3">
+        <text>Love</text>
+        <refs nrefs="2-11"/>
+      </w>
+      <w n="2-4">
+        <text>cast</text>
+        <refs nrefs="2-4"/>
+      </w>
+      <w n="2-5">
+        <text>down</text>
+        <refs nrefs="2-4"/>
+      </w>
+      <w n="2-6">
+        <text>my</text>
+        <refs nrefs="2-2"/>
+      </w>
+      <w n="2-7">
+        <text>resolute</text>
+        <refs nrefs="2-6"/>
+      </w>
+      <w n="2-8">
+        <text>,</text>
+      </w>
+      <w n="2-9">
+        <text>disdainful</text>
+        <refs nrefs="2-3"/>
+      </w>
+      <w n="2-10">
+        <text>eyes</text>
+        <refs nrefs="2-5"/>
+      </w>
+      <w n="2-11">
+        <text>,</text>
+      </w>
+      <w n="2-12">
+        <text>and</text>
+        <refs nrefs="2-7"/>
+      </w>
+      <w n="2-13">
+        <text>set</text>
+        <refs nrefs="2-10"/>
+      </w>
+      <w n="2-14">
+        <text>foot</text>
+        <refs nrefs="2-12"/>
+      </w>
+      <w n="2-15">
+        <text>on</text>
+        <refs nrefs="2-8"/>
+      </w>
+      <w n="2-16">
+        <text>my</text>
+      </w>
+      <w n="2-17">
+        <text>neck</text>
+        <refs nrefs="2-8"/>
+      </w>
+      <w n="2-18">
+        <text>:</text>
+      </w>
+      <w n="2-19">
+        <text>till</text>
+        <refs nrefs="2-14"/>
+      </w>
+      <w n="2-20">
+        <text>in</text>
+      </w>
+      <w n="2-21">
+        <text>time</text>
+      </w>
+      <w n="2-22">
+        <text>he</text>
+        <refs nrefs="2-16"/>
+      </w>
+      <w n="2-23">
+        <text>taught</text>
+        <refs nrefs="2-16"/>
+      </w>
+      <w n="2-24">
+        <text>me</text>
+        <refs nrefs="2-15"/>
+      </w>
+      <w n="2-25">
+        <text>,</text>
+      </w>
+      <w n="2-26">
+        <text>desperate</text>
+        <refs nrefs="2-20"/>
+      </w>
+      <w n="2-27">
+        <text>power</text>
+        <refs nrefs="2-20"/>
+      </w>
+      <w n="2-28">
+        <text>!</text>
+      </w>
+      <w n="2-29">
+        <text>to</text>
+        <refs nrefs="2-18"/>
+      </w>
+      <w n="2-30">
+        <text>despise</text>
+        <refs nrefs="2-18"/>
+      </w>
+      <w n="2-31">
+        <text>chaste</text>
+        <refs nrefs="2-17"/>
+      </w>
+      <w n="2-32">
+        <text>maidens</text>
+        <refs nrefs="2-19"/>
+      </w>
+      <w n="2-33">
+        <text>,</text>
+      </w>
+      <w n="2-34">
+        <text>and</text>
+        <refs nrefs="2-22"/>
+      </w>
+      <w n="2-35">
+        <text>to</text>
+        <refs nrefs="2-24"/>
+      </w>
+      <w n="2-36">
+        <text>live</text>
+        <refs nrefs="2-24"/>
+      </w>
+      <w n="2-37">
+        <text>recklessly</text>
+        <refs nrefs="2-23 2-25"/>
+      </w>
+      <w n="2-38">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="3" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="3-1">
+        <text>et</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-2">
+        <text>mihi</text>
+        <refs nrefs="3-4"/>
+      </w>
+      <w n="3-3">
+        <text>iam</text>
+        <refs nrefs="3-2"/>
+      </w>
+      <w n="3-4">
+        <text>toto</text>
+        <refs nrefs="3-11 3-12"/>
+      </w>
+      <w n="3-5">
+        <text>furor</text>
+        <refs nrefs="3-6"/>
+      </w>
+      <w n="3-6">
+        <text>hic</text>
+        <refs nrefs="3-5"/>
+      </w>
+      <w n="3-7">
+        <text>non</text>
+        <refs nrefs="3-9"/>
+      </w>
+      <w n="3-8">
+        <text>deficit</text>
+        <refs nrefs="3-7 3-8"/>
+      </w>
+      <w n="3-9">
+        <text>anno</text>
+        <refs nrefs="3-13"/>
+      </w>
+      <w n="3-10">
+        <text>,</text>
+      </w>
+      <w n="3-11">
+        <text>cum</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="3-12">
+        <text>tamen</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="3-13">
+        <text>adversos</text>
+        <refs nrefs="3-23 3-24 3-25"/>
+      </w>
+      <w n="3-14">
+        <text>cogor</text>
+        <refs nrefs="3-16 3-17 3-18"/>
+      </w>
+      <w n="3-15">
+        <text>habere</text>
+        <refs nrefs="3-19 3-20"/>
+      </w>
+      <w n="3-16">
+        <text>deos</text>
+        <refs nrefs="3-21 3-22"/>
+      </w>
+      <w n="3-17">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="3-1">
+        <text>Even</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-2">
+        <text>now</text>
+        <refs nrefs="3-3"/>
+      </w>
+      <w n="3-3">
+        <text>,</text>
+      </w>
+      <w n="3-4">
+        <text>my</text>
+        <refs nrefs="3-2"/>
+      </w>
+      <w n="3-5">
+        <text>present</text>
+        <refs nrefs="3-6"/>
+      </w>
+      <w n="3-6">
+        <text>mad</text>
+        <refs nrefs="3-5"/>
+      </w>
+      <w n="3-7">
+        <text>pursuit</text>
+        <refs nrefs="3-8"/>
+      </w>
+      <w n="3-8">
+        <text>flags</text>
+        <refs nrefs="3-8"/>
+      </w>
+      <w n="3-9">
+        <text>not</text>
+        <refs nrefs="3-7"/>
+      </w>
+      <w n="3-10">
+        <text>after</text>
+      </w>
+      <w n="3-11">
+        <text>a</text>
+        <refs nrefs="3-4"/>
+      </w>
+      <w n="3-12">
+        <text>whole</text>
+        <refs nrefs="3-4"/>
+      </w>
+      <w n="3-13">
+        <text>year</text>
+        <refs nrefs="3-9"/>
+      </w>
+      <w n="3-14">
+        <text>,</text>
+      </w>
+      <w n="3-15">
+        <text>though</text>
+        <refs nrefs="3-11 3-12"/>
+      </w>
+      <w n="3-16">
+        <text>I</text>
+        <refs nrefs="3-14"/>
+      </w>
+      <w n="3-17">
+        <text>am</text>
+        <refs nrefs="3-14"/>
+      </w>
+      <w n="3-18">
+        <text>forced</text>
+        <refs nrefs="3-14"/>
+      </w>
+      <w n="3-19">
+        <text>to</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="3-20">
+        <text>have</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="3-21">
+        <text>the</text>
+        <refs nrefs="3-16"/>
+      </w>
+      <w n="3-22">
+        <text>gods</text>
+        <refs nrefs="3-16"/>
+      </w>
+      <w n="3-23">
+        <text>opposed</text>
+        <refs nrefs="3-13"/>
+      </w>
+      <w n="3-24">
+        <text>to</text>
+        <refs nrefs="3-13"/>
+      </w>
+      <w n="3-25">
+        <text>me</text>
+        <refs nrefs="3-13"/>
+      </w>
+      <w n="3-26">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="4" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="4-1">
+        <text>Milanion</text>
+        <refs nrefs="4-1"/>
+      </w>
+      <w n="4-2">
+        <text>nullos</text>
+        <refs nrefs="4-8"/>
+      </w>
+      <w n="4-3">
+        <text>fugiendo</text>
+        <refs nrefs="4-5 4-6"/>
+      </w>
+      <w n="4-4">
+        <text>,</text>
+      </w>
+      <w n="4-5">
+        <text>Tulle</text>
+        <refs nrefs="4-3"/>
+      </w>
+      <w n="4-6">
+        <text>,</text>
+      </w>
+      <w n="4-7">
+        <text>labores</text>
+        <refs nrefs="4-7 4-9"/>
+      </w>
+      <w n="4-8">
+        <text>saevitiam</text>
+        <refs nrefs="4-13 4-15"/>
+      </w>
+      <w n="4-9">
+        <text>durae</text>
+        <refs nrefs="4-14"/>
+      </w>
+      <w n="4-10">
+        <text>contudit</text>
+        <refs nrefs="4-11 4-12"/>
+      </w>
+      <w n="4-11">
+        <text>Iasidos</text>
+        <refs nrefs="4-16 4-17 4-18 4-19 4-20"/>
+      </w>
+      <w n="4-12">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="4-1">
+        <text>Milanion</text>
+        <refs nrefs="4-1"/>
+      </w>
+      <w n="4-2">
+        <text>,</text>
+      </w>
+      <w n="4-3">
+        <text>Tullus</text>
+        <refs nrefs="4-5"/>
+      </w>
+      <w n="4-4">
+        <text>,</text>
+      </w>
+      <w n="4-5">
+        <text>by</text>
+        <refs nrefs="4-3"/>
+      </w>
+      <w n="4-6">
+        <text>shrinking</text>
+        <refs nrefs="4-3"/>
+      </w>
+      <w n="4-7">
+        <text>from</text>
+        <refs nrefs="4-7"/>
+      </w>
+      <w n="4-8">
+        <text>no</text>
+        <refs nrefs="4-2"/>
+      </w>
+      <w n="4-9">
+        <text>toils</text>
+        <refs nrefs="4-7"/>
+      </w>
+      <w n="4-10">
+        <text>,</text>
+      </w>
+      <w n="4-11">
+        <text>broke</text>
+        <refs nrefs="4-10"/>
+      </w>
+      <w n="4-12">
+        <text>down</text>
+        <refs nrefs="4-10"/>
+      </w>
+      <w n="4-13">
+        <text>the</text>
+        <refs nrefs="4-8"/>
+      </w>
+      <w n="4-14">
+        <text>stubborn</text>
+        <refs nrefs="4-9"/>
+      </w>
+      <w n="4-15">
+        <text>cruelty</text>
+        <refs nrefs="4-8"/>
+      </w>
+      <w n="4-16">
+        <text>of</text>
+        <refs nrefs="4-11"/>
+      </w>
+      <w n="4-17">
+        <text>the</text>
+        <refs nrefs="4-11"/>
+      </w>
+      <w n="4-18">
+        <text>daughter</text>
+        <refs nrefs="4-11"/>
+      </w>
+      <w n="4-19">
+        <text>of</text>
+        <refs nrefs="4-11"/>
+      </w>
+      <w n="4-20">
+        <text>Iasus</text>
+        <refs nrefs="4-11"/>
+      </w>
+      <w n="4-21">
+        <text>:</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="5" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="5-1">
+        <text>nam</text>
+        <refs nrefs="5-1"/>
+      </w>
+      <w n="5-2">
+        <text>modo</text>
+        <refs nrefs="5-2"/>
+      </w>
+      <w n="5-3">
+        <text>Partheniis</text>
+        <refs nrefs="5-14 5-15"/>
+      </w>
+      <w n="5-4">
+        <text>amens</text>
+        <refs nrefs="5-7"/>
+      </w>
+      <w n="5-5">
+        <text>errabat</text>
+        <refs nrefs="5-3 5-4"/>
+      </w>
+      <w n="5-6">
+        <text>in</text>
+        <refs nrefs="5-12 5-13"/>
+      </w>
+      <w n="5-7">
+        <text>antris</text>
+        <refs nrefs="5-12 5-13"/>
+      </w>
+      <w n="5-8">
+        <text>,</text>
+      </w>
+      <w n="5-9">
+        <text>ibat</text>
+        <refs nrefs="5-18"/>
+      </w>
+      <w n="5-10">
+        <text>et</text>
+        <refs nrefs="5-17"/>
+      </w>
+      <w n="5-11">
+        <text>hirsutas</text>
+        <refs nrefs="5-22"/>
+      </w>
+      <w n="5-12">
+        <text>ille</text>
+        <refs nrefs="5-7"/>
+      </w>
+      <w n="5-13">
+        <text>videre</text>
+        <refs nrefs="5-19 5-20"/>
+      </w>
+      <w n="5-14">
+        <text>feras</text>
+        <refs nrefs="5-21 5-23 5-24"/>
+      </w>
+      <w n="5-15">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="5-1">
+        <text>for</text>
+        <refs nrefs="5-1"/>
+      </w>
+      <w n="5-2">
+        <text>once</text>
+        <refs nrefs="5-2"/>
+      </w>
+      <w n="5-3">
+        <text>he</text>
+        <refs nrefs="5-5"/>
+      </w>
+      <w n="5-4">
+        <text>roamed</text>
+        <refs nrefs="5-5"/>
+      </w>
+      <w n="5-5">
+        <text>of</text>
+      </w>
+      <w n="5-6">
+        <text>yore</text>
+      </w>
+      <w n="5-7">
+        <text>crazed</text>
+        <refs nrefs="5-4 5-12"/>
+      </w>
+      <w n="5-8">
+        <text>with</text>
+      </w>
+      <w n="5-9">
+        <text>love</text>
+      </w>
+      <w n="5-10">
+        <text>,</text>
+      </w>
+      <w n="5-11">
+        <text>amid</text>
+      </w>
+      <w n="5-12">
+        <text>the</text>
+        <refs nrefs="5-6 5-7"/>
+      </w>
+      <w n="5-13">
+        <text>caves</text>
+        <refs nrefs="5-6 5-7"/>
+      </w>
+      <w n="5-14">
+        <text>of</text>
+        <refs nrefs="5-3"/>
+      </w>
+      <w n="5-15">
+        <text>Parthenius</text>
+        <refs nrefs="5-3"/>
+      </w>
+      <w n="5-16">
+        <text>,</text>
+      </w>
+      <w n="5-17">
+        <text>and</text>
+        <refs nrefs="5-10"/>
+      </w>
+      <w n="5-18">
+        <text>tracked</text>
+        <refs nrefs="5-9"/>
+      </w>
+      <w n="5-19">
+        <text>the</text>
+        <refs nrefs="5-13"/>
+      </w>
+      <w n="5-20">
+        <text>steps</text>
+        <refs nrefs="5-13"/>
+      </w>
+      <w n="5-21">
+        <text>of</text>
+        <refs nrefs="5-14"/>
+      </w>
+      <w n="5-22">
+        <text>shaggy</text>
+        <refs nrefs="5-11"/>
+      </w>
+      <w n="5-23">
+        <text>wild</text>
+        <refs nrefs="5-14"/>
+      </w>
+      <w n="5-24">
+        <text>beasts</text>
+        <refs nrefs="5-14"/>
+      </w>
+      <w n="5-25">
+        <text>:</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="6" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="6-1">
+        <text>ille</text>
+        <refs nrefs="6-9"/>
+      </w>
+      <w n="6-2">
+        <text>etiam</text>
+        <refs nrefs="6-2"/>
+      </w>
+      <w n="6-3">
+        <text>Hylaei</text>
+        <refs nrefs="6-6 6-7"/>
+      </w>
+      <w n="6-4">
+        <text>percussus</text>
+        <refs nrefs="6-1"/>
+      </w>
+      <w n="6-5">
+        <text>vulnere</text>
+        <refs nrefs="6-12 6-13"/>
+      </w>
+      <w n="6-6">
+        <text>rami</text>
+        <refs nrefs="6-3 6-4 6-5"/>
+      </w>
+      <w n="6-7">
+        <text>saucius</text>
+      </w>
+      <w n="6-8">
+        <text>Arcadiis</text>
+        <refs nrefs="6-16"/>
+      </w>
+      <w n="6-9">
+        <text>rupibus</text>
+        <refs nrefs="6-15 6-17"/>
+      </w>
+      <w n="6-10">
+        <text>ingemuit</text>
+        <refs nrefs="6-10"/>
+      </w>
+      <w n="6-11">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="6-1">
+        <text>stricken</text>
+        <refs nrefs="6-4"/>
+      </w>
+      <w n="6-2">
+        <text>too</text>
+        <refs nrefs="6-2"/>
+      </w>
+      <w n="6-3">
+        <text>by</text>
+        <refs nrefs="6-6"/>
+      </w>
+      <w n="6-4">
+        <text>the</text>
+        <refs nrefs="6-6"/>
+      </w>
+      <w n="6-5">
+        <text>club</text>
+        <refs nrefs="6-6"/>
+      </w>
+      <w n="6-6">
+        <text>of</text>
+        <refs nrefs="6-3"/>
+      </w>
+      <w n="6-7">
+        <text>Hylaeus</text>
+        <refs nrefs="6-3"/>
+      </w>
+      <w n="6-8">
+        <text>,</text>
+      </w>
+      <w n="6-9">
+        <text>he</text>
+        <refs nrefs="6-1"/>
+      </w>
+      <w n="6-10">
+        <text>groaned</text>
+        <refs nrefs="6-10"/>
+      </w>
+      <w n="6-11">
+        <text>,</text>
+      </w>
+      <w n="6-12">
+        <text>in</text>
+        <refs nrefs="6-5"/>
+      </w>
+      <w n="6-13">
+        <text>pain</text>
+        <refs nrefs="6-5"/>
+      </w>
+      <w n="6-14">
+        <text>,</text>
+      </w>
+      <w n="6-15">
+        <text>among</text>
+        <refs nrefs="6-9"/>
+      </w>
+      <w n="6-16">
+        <text>Arcadian</text>
+        <refs nrefs="6-8"/>
+      </w>
+      <w n="6-17">
+        <text>rocks</text>
+        <refs nrefs="6-9"/>
+      </w>
+      <w n="6-18">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="7" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="7-1">
+        <text>ergo</text>
+        <refs nrefs="7-1"/>
+      </w>
+      <w n="7-2">
+        <text>velocem</text>
+        <refs nrefs="7-8"/>
+      </w>
+      <w n="7-3">
+        <text>potuit</text>
+        <refs nrefs="7-2 7-3 7-4"/>
+      </w>
+      <w n="7-4">
+        <text>domuisse</text>
+        <refs nrefs="7-5 7-6"/>
+      </w>
+      <w n="7-5">
+        <text>puellam</text>
+        <refs nrefs="7-7 7-9"/>
+      </w>
+      <w n="7-6">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="7-1">
+        <text>Therefore</text>
+        <refs nrefs="7-1"/>
+      </w>
+      <w n="7-2">
+        <text>was</text>
+        <refs nrefs="7-3"/>
+      </w>
+      <w n="7-3">
+        <text>he</text>
+        <refs nrefs="7-3"/>
+      </w>
+      <w n="7-4">
+        <text>able</text>
+        <refs nrefs="7-3"/>
+      </w>
+      <w n="7-5">
+        <text>to</text>
+        <refs nrefs="7-4"/>
+      </w>
+      <w n="7-6">
+        <text>tame</text>
+        <refs nrefs="7-4"/>
+      </w>
+      <w n="7-7">
+        <text>the</text>
+        <refs nrefs="7-5"/>
+      </w>
+      <w n="7-8">
+        <text>swift-footed</text>
+        <refs nrefs="7-2"/>
+      </w>
+      <w n="7-9">
+        <text>damsel</text>
+        <refs nrefs="7-5"/>
+      </w>
+      <w n="7-10">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="8" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="8-1">
+        <text>tantum</text>
+        <refs nrefs="8-1"/>
+      </w>
+      <w n="8-2">
+        <text>in</text>
+        <refs nrefs="8-10"/>
+      </w>
+      <w n="8-3">
+        <text>amore</text>
+        <refs nrefs="8-11"/>
+      </w>
+      <w n="8-4">
+        <text>preces</text>
+        <refs nrefs="8-5 8-6"/>
+      </w>
+      <w n="8-5">
+        <text>et</text>
+        <refs nrefs="8-7"/>
+      </w>
+      <w n="8-6">
+        <text>bene</text>
+        <refs nrefs="8-8"/>
+      </w>
+      <w n="8-7">
+        <text>facta</text>
+        <refs nrefs="8-9"/>
+      </w>
+      <w n="8-8">
+        <text>valent</text>
+        <refs nrefs="8-2 8-3 8-4"/>
+      </w>
+      <w n="8-9">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="8-1">
+        <text>Such</text>
+        <refs nrefs="8-1"/>
+      </w>
+      <w n="8-2">
+        <text>is</text>
+        <refs nrefs="8-8"/>
+      </w>
+      <w n="8-3">
+        <text>the</text>
+        <refs nrefs="8-8"/>
+      </w>
+      <w n="8-4">
+        <text>force</text>
+        <refs nrefs="8-8"/>
+      </w>
+      <w n="8-5">
+        <text>of</text>
+        <refs nrefs="8-4"/>
+      </w>
+      <w n="8-6">
+        <text>prayers</text>
+        <refs nrefs="8-4"/>
+      </w>
+      <w n="8-7">
+        <text>and</text>
+        <refs nrefs="8-5"/>
+      </w>
+      <w n="8-8">
+        <text>good</text>
+        <refs nrefs="8-6"/>
+      </w>
+      <w n="8-9">
+        <text>deeds</text>
+        <refs nrefs="8-7"/>
+      </w>
+      <w n="8-10">
+        <text>in</text>
+        <refs nrefs="8-2"/>
+      </w>
+      <w n="8-11">
+        <text>love</text>
+        <refs nrefs="8-3"/>
+      </w>
+      <w n="8-12">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="9" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="9-1">
+        <text>in</text>
+        <refs nrefs="9-1"/>
+      </w>
+      <w n="9-2">
+        <text>me</text>
+        <refs nrefs="9-2"/>
+      </w>
+      <w n="9-3">
+        <text>tardus</text>
+        <refs nrefs="9-3"/>
+      </w>
+      <w n="9-4">
+        <text>Amor</text>
+        <refs nrefs="9-4"/>
+      </w>
+      <w n="9-5">
+        <text>non</text>
+        <refs nrefs="9-6"/>
+      </w>
+      <w n="9-6">
+        <text>ullas</text>
+        <refs nrefs="9-6"/>
+      </w>
+      <w n="9-7">
+        <text>cogitat</text>
+        <refs nrefs="9-5"/>
+      </w>
+      <w n="9-8">
+        <text>artis</text>
+        <refs nrefs="9-7"/>
+      </w>
+      <w n="9-9">
+        <text>,</text>
+      </w>
+      <w n="9-10">
+        <text>c</text>
+        <refs nrefs="9-9"/>
+      </w>
+      <w n="9-11">
+        <text>ne</text>
+        <refs nrefs="9-9"/>
+      </w>
+      <w n="9-12">
+        <text>meminit</text>
+        <refs nrefs="9-10"/>
+      </w>
+      <w n="9-13">
+        <text>notas</text>
+        <refs nrefs="9-19"/>
+      </w>
+      <w n="9-14">
+        <text>,</text>
+      </w>
+      <w n="9-15">
+        <text>ut</text>
+        <refs nrefs="9-14"/>
+      </w>
+      <w n="9-16">
+        <text>prius</text>
+        <refs nrefs="9-15"/>
+      </w>
+      <w n="9-17">
+        <text>,</text>
+      </w>
+      <w n="9-18">
+        <text>ire</text>
+        <refs nrefs="9-11 9-12"/>
+      </w>
+      <w n="9-19">
+        <text>vias</text>
+        <refs nrefs="9-17 9-18 9-20"/>
+      </w>
+      <w n="9-20">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="9-1">
+        <text>In</text>
+        <refs nrefs="9-1"/>
+      </w>
+      <w n="9-2">
+        <text>me</text>
+        <refs nrefs="9-2"/>
+      </w>
+      <w n="9-3">
+        <text>slow-witted</text>
+        <refs nrefs="9-3"/>
+      </w>
+      <w n="9-4">
+        <text>Love</text>
+        <refs nrefs="9-4"/>
+      </w>
+      <w n="9-5">
+        <text>devises</text>
+        <refs nrefs="9-7"/>
+      </w>
+      <w n="9-6">
+        <text>no</text>
+        <refs nrefs="9-5 9-6"/>
+      </w>
+      <w n="9-7">
+        <text>plans</text>
+        <refs nrefs="9-8"/>
+      </w>
+      <w n="9-8">
+        <text>,</text>
+      </w>
+      <w n="9-9">
+        <text>and</text>
+        <refs nrefs="9-10 9-11"/>
+      </w>
+      <w n="9-10">
+        <text>forgets</text>
+        <refs nrefs="9-12"/>
+      </w>
+      <w n="9-11">
+        <text>to</text>
+        <refs nrefs="9-18"/>
+      </w>
+      <w n="9-12">
+        <text>travel</text>
+        <refs nrefs="9-18"/>
+      </w>
+      <w n="9-13">
+        <text>,</text>
+      </w>
+      <w n="9-14">
+        <text>as</text>
+        <refs nrefs="9-15"/>
+      </w>
+      <w n="9-15">
+        <text>before</text>
+        <refs nrefs="9-16"/>
+      </w>
+      <w n="9-16">
+        <text>,</text>
+      </w>
+      <w n="9-17">
+        <text>in</text>
+        <refs nrefs="9-19"/>
+      </w>
+      <w n="9-18">
+        <text>the</text>
+        <refs nrefs="9-19"/>
+      </w>
+      <w n="9-19">
+        <text>beaten</text>
+        <refs nrefs="9-13"/>
+      </w>
+      <w n="9-20">
+        <text>paths</text>
+        <refs nrefs="9-19"/>
+      </w>
+      <w n="9-21">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="10" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="10-1">
+        <text>at</text>
+        <refs nrefs="10-1"/>
+      </w>
+      <w n="10-2">
+        <text>vos</text>
+        <refs nrefs="10-2"/>
+      </w>
+      <w n="10-3">
+        <text>,</text>
+      </w>
+      <w n="10-4">
+        <text>deductae</text>
+        <refs nrefs="10-7 10-8 10-11"/>
+      </w>
+      <w n="10-5">
+        <text>quibus</text>
+        <refs nrefs="10-4"/>
+      </w>
+      <w n="10-6">
+        <text>est</text>
+        <refs nrefs="10-5"/>
+      </w>
+      <w n="10-7">
+        <text>fallacia</text>
+        <refs nrefs="10-6"/>
+      </w>
+      <w n="10-8">
+        <text>lunae</text>
+        <refs nrefs="10-9 10-10"/>
+      </w>
+      <w n="10-9">
+        <text>et</text>
+        <refs nrefs="10-16"/>
+      </w>
+      <w n="10-10">
+        <text>labor</text>
+        <refs nrefs="10-19"/>
+      </w>
+      <w n="10-11">
+        <text>in</text>
+        <refs nrefs="10-26"/>
+      </w>
+      <w n="10-12">
+        <text>magicis</text>
+        <refs nrefs="10-27"/>
+      </w>
+      <w n="10-13">
+        <text>sacra</text>
+        <refs nrefs="10-24 10-25"/>
+      </w>
+      <w n="10-14">
+        <text>piare</text>
+        <refs nrefs="10-22 10-23"/>
+      </w>
+      <w n="10-15">
+        <text>focis</text>
+        <refs nrefs="10-28"/>
+      </w>
+      <w n="10-16">
+        <text>,</text>
+      </w>
+      <w n="10-17">
+        <text>en</text>
+        <refs nrefs="10-30"/>
+      </w>
+      <w n="10-18">
+        <text>agedum</text>
+        <refs nrefs="10-30"/>
+      </w>
+      <w n="10-19">
+        <text>dominae</text>
+        <refs nrefs="10-35 10-37"/>
+      </w>
+      <w n="10-20">
+        <text>mentem</text>
+        <refs nrefs="10-33 10-34"/>
+      </w>
+      <w n="10-21">
+        <text>convertite</text>
+        <refs nrefs="10-32"/>
+      </w>
+      <w n="10-22">
+        <text>nostrae</text>
+        <refs nrefs="10-36"/>
+      </w>
+      <w n="10-23">
+        <text>,</text>
+      </w>
+      <w n="10-24">
+        <text>et</text>
+        <refs nrefs="10-39"/>
+      </w>
+      <w n="10-25">
+        <text>facite</text>
+        <refs nrefs="10-40"/>
+      </w>
+      <w n="10-26">
+        <text>illa</text>
+        <refs nrefs="10-41"/>
+      </w>
+      <w n="10-27">
+        <text>meo</text>
+        <refs nrefs="10-44 10-45"/>
+      </w>
+      <w n="10-28">
+        <text>palleat</text>
+        <refs nrefs="10-43"/>
+      </w>
+      <w n="10-29">
+        <text>ore</text>
+        <refs nrefs="10-44 10-45"/>
+      </w>
+      <w n="10-30">
+        <text>magis</text>
+        <refs nrefs="10-42"/>
+      </w>
+      <w n="10-31">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="10-1">
+        <text>Come</text>
+        <refs nrefs="10-1"/>
+      </w>
+      <w n="10-2">
+        <text>ye</text>
+        <refs nrefs="10-2"/>
+      </w>
+      <w n="10-3">
+        <text>,</text>
+      </w>
+      <w n="10-4">
+        <text>that</text>
+        <refs nrefs="10-5"/>
+      </w>
+      <w n="10-5">
+        <text>are</text>
+        <refs nrefs="10-6"/>
+      </w>
+      <w n="10-6">
+        <text>skilled</text>
+        <refs nrefs="10-7"/>
+      </w>
+      <w n="10-7">
+        <text>in</text>
+        <refs nrefs="10-4"/>
+      </w>
+      <w n="10-8">
+        <text>bringing</text>
+        <refs nrefs="10-4"/>
+      </w>
+      <w n="10-9">
+        <text>the</text>
+        <refs nrefs="10-8"/>
+      </w>
+      <w n="10-10">
+        <text>moon</text>
+        <refs nrefs="10-8"/>
+      </w>
+      <w n="10-11">
+        <text>down</text>
+        <refs nrefs="10-4"/>
+      </w>
+      <w n="10-12">
+        <text>from</text>
+      </w>
+      <w n="10-13">
+        <text>the</text>
+      </w>
+      <w n="10-14">
+        <text>sky</text>
+      </w>
+      <w n="10-15">
+        <text>,</text>
+      </w>
+      <w n="10-16">
+        <text>and</text>
+        <refs nrefs="10-9"/>
+      </w>
+      <w n="10-17">
+        <text>whose</text>
+      </w>
+      <w n="10-18">
+        <text>dread</text>
+      </w>
+      <w n="10-19">
+        <text>work</text>
+        <refs nrefs="10-10"/>
+      </w>
+      <w n="10-20">
+        <text>it</text>
+      </w>
+      <w n="10-21">
+        <text>is</text>
+      </w>
+      <w n="10-22">
+        <text>to</text>
+        <refs nrefs="10-14"/>
+      </w>
+      <w n="10-23">
+        <text>solemnize</text>
+        <refs nrefs="10-14"/>
+      </w>
+      <w n="10-24">
+        <text>sacred</text>
+        <refs nrefs="10-13"/>
+      </w>
+      <w n="10-25">
+        <text>rites</text>
+        <refs nrefs="10-13"/>
+      </w>
+      <w n="10-26">
+        <text>with</text>
+        <refs nrefs="10-11"/>
+      </w>
+      <w n="10-27">
+        <text>magic</text>
+        <refs nrefs="10-12"/>
+      </w>
+      <w n="10-28">
+        <text>fire</text>
+        <refs nrefs="10-15"/>
+      </w>
+      <w n="10-29">
+        <text>,</text>
+      </w>
+      <w n="10-30">
+        <text>come</text>
+        <refs nrefs="10-17 10-18"/>
+      </w>
+      <w n="10-31">
+        <text>and</text>
+      </w>
+      <w n="10-32">
+        <text>turn</text>
+        <refs nrefs="10-21"/>
+      </w>
+      <w n="10-33">
+        <text>the</text>
+        <refs nrefs="10-20"/>
+      </w>
+      <w n="10-34">
+        <text>heart</text>
+        <refs nrefs="10-20"/>
+      </w>
+      <w n="10-35">
+        <text>of</text>
+        <refs nrefs="10-19"/>
+      </w>
+      <w n="10-36">
+        <text>my</text>
+        <refs nrefs="10-22"/>
+      </w>
+      <w n="10-37">
+        <text>mistress</text>
+        <refs nrefs="10-19"/>
+      </w>
+      <w n="10-38">
+        <text>,</text>
+      </w>
+      <w n="10-39">
+        <text>and</text>
+        <refs nrefs="10-24"/>
+      </w>
+      <w n="10-40">
+        <text>make</text>
+        <refs nrefs="10-25"/>
+      </w>
+      <w n="10-41">
+        <text>her</text>
+        <refs nrefs="10-26"/>
+      </w>
+      <w n="10-42">
+        <text>more</text>
+        <refs nrefs="10-30"/>
+      </w>
+      <w n="10-43">
+        <text>pale</text>
+        <refs nrefs="10-28"/>
+      </w>
+      <w n="10-44">
+        <text>than</text>
+        <refs nrefs="10-27 10-29"/>
+      </w>
+      <w n="10-45">
+        <text>myself</text>
+        <refs nrefs="10-27 10-29"/>
+      </w>
+      <w n="10-46">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="11" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="11-1">
+        <text>tunc</text>
+        <refs nrefs="11-1"/>
+      </w>
+      <w n="11-2">
+        <text>ego</text>
+        <refs nrefs="11-2"/>
+      </w>
+      <w n="11-3">
+        <text>crediderim</text>
+        <refs nrefs="11-3 11-4"/>
+      </w>
+      <w n="11-4">
+        <text>vobis</text>
+        <refs nrefs="11-5"/>
+      </w>
+      <w n="11-5">
+        <text>et</text>
+        <refs nrefs="11-13"/>
+      </w>
+      <w n="11-6">
+        <text>sidera</text>
+        <refs nrefs="11-10 11-11"/>
+      </w>
+      <w n="11-7">
+        <text>et</text>
+        <refs nrefs="11-13"/>
+      </w>
+      <w n="11-8">
+        <text>amnis</text>
+        <refs nrefs="11-15 11-16 11-17 11-18"/>
+      </w>
+      <w n="11-9">
+        <text>posse</text>
+        <refs nrefs="11-6"/>
+      </w>
+      <w n="11-10">
+        <text>Cytaeines</text>
+        <refs nrefs="11-20"/>
+      </w>
+      <w n="11-11">
+        <text>ducere</text>
+        <refs nrefs="11-7 11-8 11-9 11-14"/>
+      </w>
+      <w n="11-12">
+        <text>carminibus</text>
+        <refs nrefs="11-19 11-21"/>
+      </w>
+      <w n="11-13">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="11-1">
+        <text>Then</text>
+        <refs nrefs="11-1"/>
+      </w>
+      <w n="11-2">
+        <text>I</text>
+        <refs nrefs="11-2"/>
+      </w>
+      <w n="11-3">
+        <text>may</text>
+        <refs nrefs="11-3"/>
+      </w>
+      <w n="11-4">
+        <text>believe</text>
+        <refs nrefs="11-3"/>
+      </w>
+      <w n="11-5">
+        <text>you</text>
+        <refs nrefs="11-4"/>
+      </w>
+      <w n="11-6">
+        <text>able</text>
+        <refs nrefs="11-9"/>
+      </w>
+      <w n="11-7">
+        <text>to</text>
+        <refs nrefs="11-11"/>
+      </w>
+      <w n="11-8">
+        <text>draw</text>
+        <refs nrefs="11-11"/>
+      </w>
+      <w n="11-9">
+        <text>down</text>
+        <refs nrefs="11-11"/>
+      </w>
+      <w n="11-10">
+        <text>the</text>
+        <refs nrefs="11-6"/>
+      </w>
+      <w n="11-11">
+        <text>stars</text>
+        <refs nrefs="11-6"/>
+      </w>
+      <w n="11-12">
+        <text>,</text>
+      </w>
+      <w n="11-13">
+        <text>and</text>
+        <refs nrefs="11-5 11-7"/>
+      </w>
+      <w n="11-14">
+        <text>turn</text>
+        <refs nrefs="11-11"/>
+      </w>
+      <w n="11-15">
+        <text>the</text>
+        <refs nrefs="11-8"/>
+      </w>
+      <w n="11-16">
+        <text>course</text>
+        <refs nrefs="11-8"/>
+      </w>
+      <w n="11-17">
+        <text>of</text>
+        <refs nrefs="11-8"/>
+      </w>
+      <w n="11-18">
+        <text>rivers</text>
+        <refs nrefs="11-8"/>
+      </w>
+      <w n="11-19">
+        <text>by</text>
+        <refs nrefs="11-12"/>
+      </w>
+      <w n="11-20">
+        <text>Cytaean</text>
+        <refs nrefs="11-10"/>
+      </w>
+      <w n="11-21">
+        <text>spells</text>
+        <refs nrefs="11-12"/>
+      </w>
+      <w n="11-22">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="12" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="12-1">
+        <text>et</text>
+        <refs nrefs="12-1"/>
+      </w>
+      <w n="12-2">
+        <text>vos</text>
+        <refs nrefs="12-2"/>
+      </w>
+      <w n="12-3">
+        <text>,</text>
+      </w>
+      <w n="12-4">
+        <text>qui</text>
+        <refs nrefs="12-7"/>
+      </w>
+      <w n="12-5">
+        <text>sero</text>
+        <refs nrefs="12-9 12-10"/>
+      </w>
+      <w n="12-6">
+        <text>lapsum</text>
+        <refs nrefs="12-15 12-16 12-17 12-18"/>
+      </w>
+      <w n="12-7">
+        <text>revocatis</text>
+        <refs nrefs="12-8 12-11 12-12 12-13 12-14"/>
+      </w>
+      <w n="12-8">
+        <text>,</text>
+      </w>
+      <w n="12-9">
+        <text>amici</text>
+        <refs nrefs="12-4 12-5"/>
+      </w>
+      <w n="12-10">
+        <text>,</text>
+      </w>
+      <w n="12-11">
+        <text>quaerite</text>
+        <refs nrefs="12-20"/>
+      </w>
+      <w n="12-12">
+        <text>non</text>
+        <refs nrefs="12-25"/>
+      </w>
+      <w n="12-13">
+        <text>sani</text>
+        <refs nrefs="12-25"/>
+      </w>
+      <w n="12-14">
+        <text>pectoris</text>
+        <refs nrefs="12-23 12-26"/>
+      </w>
+      <w n="12-15">
+        <text>auxilia</text>
+        <refs nrefs="12-22"/>
+      </w>
+      <w n="12-16">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="12-1">
+        <text>And</text>
+        <refs nrefs="12-1"/>
+      </w>
+      <w n="12-2">
+        <text>you</text>
+        <refs nrefs="12-2"/>
+      </w>
+      <w n="12-3">
+        <text>,</text>
+      </w>
+      <w n="12-4">
+        <text>my</text>
+        <refs nrefs="12-9"/>
+      </w>
+      <w n="12-5">
+        <text>friends</text>
+        <refs nrefs="12-9"/>
+      </w>
+      <w n="12-6">
+        <text>,</text>
+      </w>
+      <w n="12-7">
+        <text>who</text>
+        <refs nrefs="12-4"/>
+      </w>
+      <w n="12-8">
+        <text>attempt</text>
+        <refs nrefs="12-7"/>
+      </w>
+      <w n="12-9">
+        <text>too</text>
+        <refs nrefs="12-5"/>
+      </w>
+      <w n="12-10">
+        <text>late</text>
+        <refs nrefs="12-5"/>
+      </w>
+      <w n="12-11">
+        <text>to</text>
+        <refs nrefs="12-7"/>
+      </w>
+      <w n="12-12">
+        <text>cry</text>
+        <refs nrefs="12-7"/>
+      </w>
+      <w n="12-13">
+        <text>me</text>
+        <refs nrefs="12-7"/>
+      </w>
+      <w n="12-14">
+        <text>back</text>
+        <refs nrefs="12-7"/>
+      </w>
+      <w n="12-15">
+        <text>who</text>
+        <refs nrefs="12-6"/>
+      </w>
+      <w n="12-16">
+        <text>am</text>
+        <refs nrefs="12-6"/>
+      </w>
+      <w n="12-17">
+        <text>already</text>
+        <refs nrefs="12-6"/>
+      </w>
+      <w n="12-18">
+        <text>fallen</text>
+        <refs nrefs="12-6"/>
+      </w>
+      <w n="12-19">
+        <text>,</text>
+      </w>
+      <w n="12-20">
+        <text>find</text>
+        <refs nrefs="12-11"/>
+      </w>
+      <w n="12-21">
+        <text>some</text>
+      </w>
+      <w n="12-22">
+        <text>help</text>
+        <refs nrefs="12-15"/>
+      </w>
+      <w n="12-23">
+        <text>for</text>
+        <refs nrefs="12-14"/>
+      </w>
+      <w n="12-24">
+        <text>my</text>
+      </w>
+      <w n="12-25">
+        <text>wounded</text>
+        <refs nrefs="12-12 12-13"/>
+      </w>
+      <w n="12-26">
+        <text>heart</text>
+        <refs nrefs="12-14"/>
+      </w>
+      <w n="12-27">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="13" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="13-1">
+        <text>fortiter</text>
+        <refs nrefs="13-9"/>
+      </w>
+      <w n="13-2">
+        <text>et</text>
+        <refs nrefs="13-6"/>
+      </w>
+      <w n="13-3">
+        <text>ferrum</text>
+        <refs nrefs="13-4 13-5"/>
+      </w>
+      <w n="13-4">
+        <text>saevos</text>
+        <refs nrefs="13-7"/>
+      </w>
+      <w n="13-5">
+        <text>patiemur</text>
+        <refs nrefs="13-1 13-2 13-3"/>
+      </w>
+      <w n="13-6">
+        <text>et</text>
+        <refs nrefs="13-6"/>
+      </w>
+      <w n="13-7">
+        <text>ignis</text>
+        <refs nrefs="13-8"/>
+      </w>
+      <w n="13-8">
+        <text>,</text>
+      </w>
+      <w n="13-9">
+        <text>sit</text>
+        <refs nrefs="13-11 13-12 13-14"/>
+      </w>
+      <w n="13-10">
+        <text>modo</text>
+        <refs nrefs="13-13"/>
+      </w>
+      <w n="13-11">
+        <text>libertas</text>
+        <refs nrefs="13-15"/>
+      </w>
+      <w n="13-12">
+        <text>quae</text>
+        <refs nrefs="13-18"/>
+      </w>
+      <w n="13-13">
+        <text>velit</text>
+        <refs nrefs="13-21"/>
+      </w>
+      <w n="13-14">
+        <text>ira</text>
+        <refs nrefs="13-19 13-20"/>
+      </w>
+      <w n="13-15">
+        <text>loqui</text>
+        <refs nrefs="13-16 13-17"/>
+      </w>
+      <w n="13-16">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="13-1">
+        <text>I</text>
+        <refs nrefs="13-5"/>
+      </w>
+      <w n="13-2">
+        <text>will</text>
+        <refs nrefs="13-5"/>
+      </w>
+      <w n="13-3">
+        <text>bear</text>
+        <refs nrefs="13-5"/>
+      </w>
+      <w n="13-4">
+        <text>the</text>
+        <refs nrefs="13-3"/>
+      </w>
+      <w n="13-5">
+        <text>knife</text>
+        <refs nrefs="13-3"/>
+      </w>
+      <w n="13-6">
+        <text>and</text>
+        <refs nrefs="13-2 13-6"/>
+      </w>
+      <w n="13-7">
+        <text>torturing</text>
+        <refs nrefs="13-4"/>
+      </w>
+      <w n="13-8">
+        <text>cautery</text>
+        <refs nrefs="13-7"/>
+      </w>
+      <w n="13-9">
+        <text>unflinchingly</text>
+        <refs nrefs="13-1"/>
+      </w>
+      <w n="13-10">
+        <text>:</text>
+      </w>
+      <w n="13-11">
+        <text>let</text>
+        <refs nrefs="13-9"/>
+      </w>
+      <w n="13-12">
+        <text>me</text>
+        <refs nrefs="13-9"/>
+      </w>
+      <w n="13-13">
+        <text>but</text>
+        <refs nrefs="13-10"/>
+      </w>
+      <w n="13-14">
+        <text>have</text>
+        <refs nrefs="13-9"/>
+      </w>
+      <w n="13-15">
+        <text>liberty</text>
+        <refs nrefs="13-11"/>
+      </w>
+      <w n="13-16">
+        <text>to</text>
+        <refs nrefs="13-15"/>
+      </w>
+      <w n="13-17">
+        <text>speak</text>
+        <refs nrefs="13-15"/>
+      </w>
+      <w n="13-18">
+        <text>what</text>
+        <refs nrefs="13-12"/>
+      </w>
+      <w n="13-19">
+        <text>my</text>
+        <refs nrefs="13-14"/>
+      </w>
+      <w n="13-20">
+        <text>anger</text>
+        <refs nrefs="13-14"/>
+      </w>
+      <w n="13-21">
+        <text>wills</text>
+        <refs nrefs="13-13"/>
+      </w>
+      <w n="13-22">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="14" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="14-1">
+        <text>ferte</text>
+        <refs nrefs="14-1 14-2"/>
+      </w>
+      <w n="14-2">
+        <text>per</text>
+        <refs nrefs="14-3"/>
+      </w>
+      <w n="14-3">
+        <text>extremas</text>
+        <refs nrefs="14-4"/>
+      </w>
+      <w n="14-4">
+        <text>gentis</text>
+        <refs nrefs="14-5 14-6 14-7"/>
+      </w>
+      <w n="14-5">
+        <text>et</text>
+        <refs nrefs="14-9"/>
+      </w>
+      <w n="14-6">
+        <text>ferte</text>
+        <refs nrefs="14-1 14-2"/>
+      </w>
+      <w n="14-7">
+        <text>per</text>
+        <refs nrefs="14-10"/>
+      </w>
+      <w n="14-8">
+        <text>undas</text>
+        <refs nrefs="14-11 14-12"/>
+      </w>
+      <w n="14-9">
+        <text>,</text>
+      </w>
+      <w n="14-10">
+        <text>qua</text>
+        <refs nrefs="14-14"/>
+      </w>
+      <w n="14-11">
+        <text>non</text>
+        <refs nrefs="14-15"/>
+      </w>
+      <w n="14-12">
+        <text>ulla</text>
+        <refs nrefs="14-15"/>
+      </w>
+      <w n="14-13">
+        <text>meum</text>
+        <refs nrefs="14-19"/>
+      </w>
+      <w n="14-14">
+        <text>femina</text>
+        <refs nrefs="14-16"/>
+      </w>
+      <w n="14-15">
+        <text>norit</text>
+        <refs nrefs="14-17 14-18"/>
+      </w>
+      <w n="14-16">
+        <text>iter</text>
+        <refs nrefs="14-20"/>
+      </w>
+      <w n="14-17">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="14-1">
+        <text>Carry</text>
+        <refs nrefs="14-1 14-6"/>
+      </w>
+      <w n="14-2">
+        <text>me</text>
+        <refs nrefs="14-1 14-6"/>
+      </w>
+      <w n="14-3">
+        <text>to</text>
+        <refs nrefs="14-2"/>
+      </w>
+      <w n="14-4">
+        <text>end</text>
+        <refs nrefs="14-3"/>
+      </w>
+      <w n="14-5">
+        <text>of</text>
+        <refs nrefs="14-4"/>
+      </w>
+      <w n="14-6">
+        <text>the</text>
+        <refs nrefs="14-4"/>
+      </w>
+      <w n="14-7">
+        <text>world</text>
+        <refs nrefs="14-4"/>
+      </w>
+      <w n="14-8">
+        <text>,</text>
+      </w>
+      <w n="14-9">
+        <text>or</text>
+        <refs nrefs="14-5"/>
+      </w>
+      <w n="14-10">
+        <text>over</text>
+        <refs nrefs="14-7"/>
+      </w>
+      <w n="14-11">
+        <text>the</text>
+        <refs nrefs="14-8"/>
+      </w>
+      <w n="14-12">
+        <text>seas</text>
+        <refs nrefs="14-8"/>
+      </w>
+      <w n="14-13">
+        <text>,</text>
+      </w>
+      <w n="14-14">
+        <text>whither</text>
+        <refs nrefs="14-10"/>
+      </w>
+      <w n="14-15">
+        <text>no</text>
+        <refs nrefs="14-11 14-12"/>
+      </w>
+      <w n="14-16">
+        <text>woman</text>
+        <refs nrefs="14-14"/>
+      </w>
+      <w n="14-17">
+        <text>can</text>
+        <refs nrefs="14-15"/>
+      </w>
+      <w n="14-18">
+        <text>know</text>
+        <refs nrefs="14-15"/>
+      </w>
+      <w n="14-19">
+        <text>my</text>
+        <refs nrefs="14-13"/>
+      </w>
+      <w n="14-20">
+        <text>track</text>
+        <refs nrefs="14-16"/>
+      </w>
+      <w n="14-21">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="15" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="15-1">
+        <text>vos</text>
+        <refs nrefs="15-2"/>
+      </w>
+      <w n="15-2">
+        <text>remanete</text>
+        <refs nrefs="15-1"/>
+      </w>
+      <w n="15-3">
+        <text>,</text>
+      </w>
+      <w n="15-4">
+        <text>quibus</text>
+        <refs nrefs="15-4 15-5"/>
+      </w>
+      <w n="15-5">
+        <text>facili</text>
+        <refs nrefs="15-10"/>
+      </w>
+      <w n="15-6">
+        <text>deus</text>
+        <refs nrefs="15-6 15-7"/>
+      </w>
+      <w n="15-7">
+        <text>annuit</text>
+        <refs nrefs="15-8"/>
+      </w>
+      <w n="15-8">
+        <text>aure</text>
+        <refs nrefs="15-9 15-11"/>
+      </w>
+      <w n="15-9">
+        <text>,</text>
+      </w>
+      <w n="15-10">
+        <text>sitis</text>
+        <refs nrefs="15-14 15-15 15-16"/>
+      </w>
+      <w n="15-11">
+        <text>et</text>
+        <refs nrefs="15-13 15-21"/>
+      </w>
+      <w n="15-12">
+        <text>in</text>
+        <refs nrefs="15-22 15-23"/>
+      </w>
+      <w n="15-13">
+        <text>tuto</text>
+        <refs nrefs="15-25 15-26"/>
+      </w>
+      <w n="15-14">
+        <text>semper</text>
+      </w>
+      <w n="15-15">
+        <text>amore</text>
+        <refs nrefs="15-22 15-23"/>
+      </w>
+      <w n="15-16">
+        <text>pares</text>
+        <refs nrefs="15-17 15-18 15-19"/>
+      </w>
+      <w n="15-17">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="15-1">
+        <text>Remain</text>
+        <refs nrefs="15-2"/>
+      </w>
+      <w n="15-2">
+        <text>ye</text>
+        <refs nrefs="15-1"/>
+      </w>
+      <w n="15-3">
+        <text>,</text>
+      </w>
+      <w n="15-4">
+        <text>to</text>
+        <refs nrefs="15-4"/>
+      </w>
+      <w n="15-5">
+        <text>whom</text>
+        <refs nrefs="15-4"/>
+      </w>
+      <w n="15-6">
+        <text>the</text>
+        <refs nrefs="15-6"/>
+      </w>
+      <w n="15-7">
+        <text>gods</text>
+        <refs nrefs="15-6"/>
+      </w>
+      <w n="15-8">
+        <text>lend</text>
+        <refs nrefs="15-7"/>
+      </w>
+      <w n="15-9">
+        <text>a</text>
+        <refs nrefs="15-8"/>
+      </w>
+      <w n="15-10">
+        <text>willing</text>
+        <refs nrefs="15-5"/>
+      </w>
+      <w n="15-11">
+        <text>ear</text>
+        <refs nrefs="15-8"/>
+      </w>
+      <w n="15-12">
+        <text>,</text>
+      </w>
+      <w n="15-13">
+        <text>and</text>
+        <refs nrefs="15-11"/>
+      </w>
+      <w n="15-14">
+        <text>may</text>
+        <refs nrefs="15-10"/>
+      </w>
+      <w n="15-15">
+        <text>ye</text>
+        <refs nrefs="15-10"/>
+      </w>
+      <w n="15-16">
+        <text>meet</text>
+        <refs nrefs="15-10"/>
+      </w>
+      <w n="15-17">
+        <text>with</text>
+        <refs nrefs="15-16"/>
+      </w>
+      <w n="15-18">
+        <text>kindred</text>
+        <refs nrefs="15-16"/>
+      </w>
+      <w n="15-19">
+        <text>feelings</text>
+        <refs nrefs="15-16"/>
+      </w>
+      <w n="15-20">
+        <text>,</text>
+      </w>
+      <w n="15-21">
+        <text>and</text>
+        <refs nrefs="15-11"/>
+      </w>
+      <w n="15-22">
+        <text>your</text>
+        <refs nrefs="15-12 15-15"/>
+      </w>
+      <w n="15-23">
+        <text>love</text>
+        <refs nrefs="15-12 15-15"/>
+      </w>
+      <w n="15-24">
+        <text>fear</text>
+      </w>
+      <w n="15-25">
+        <text>no</text>
+        <refs nrefs="15-13"/>
+      </w>
+      <w n="15-26">
+        <text>danger</text>
+        <refs nrefs="15-13"/>
+      </w>
+      <w n="15-27">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="16" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="16-1">
+        <text>in</text>
+        <refs nrefs="16-1"/>
+      </w>
+      <w n="16-2">
+        <text>me</text>
+        <refs nrefs="16-1"/>
+      </w>
+      <w n="16-3">
+        <text>nostra</text>
+        <refs nrefs="16-2"/>
+      </w>
+      <w n="16-4">
+        <text>Venus</text>
+        <refs nrefs="16-3"/>
+      </w>
+      <w n="16-5">
+        <text>noctes</text>
+        <refs nrefs="16-5 16-7"/>
+      </w>
+      <w n="16-6">
+        <text>exercet</text>
+        <refs nrefs="16-4"/>
+      </w>
+      <w n="16-7">
+        <text>amaras</text>
+        <refs nrefs="16-6"/>
+      </w>
+      <w n="16-8">
+        <text>,</text>
+      </w>
+      <w n="16-9">
+        <text>et</text>
+        <refs nrefs="16-9"/>
+      </w>
+      <w n="16-10">
+        <text>nullo</text>
+        <refs nrefs="16-12"/>
+      </w>
+      <w n="16-11">
+        <text>vacuus</text>
+        <refs nrefs="16-16 16-17"/>
+      </w>
+      <w n="16-12">
+        <text>tempore</text>
+        <refs nrefs="16-11 16-13"/>
+      </w>
+      <w n="16-13">
+        <text>defit</text>
+        <refs nrefs="16-14 16-15"/>
+      </w>
+      <w n="16-14">
+        <text>Amor</text>
+        <refs nrefs="16-10"/>
+      </w>
+      <w n="16-15">
+        <text>.</text>
+      </w>
+      <w n="16-16">
+        <text>hoc</text>
+        <refs nrefs="16-25"/>
+      </w>
+      <w n="16-17">
+        <text>,</text>
+      </w>
+      <w n="16-18">
+        <text>moneo</text>
+        <refs nrefs="16-21 16-22 16-23"/>
+      </w>
+      <w n="16-19">
+        <text>,</text>
+      </w>
+      <w n="16-20">
+        <text>vitate</text>
+        <refs nrefs="16-19"/>
+      </w>
+      <w n="16-21">
+        <text>malum</text>
+        <refs nrefs="16-26"/>
+      </w>
+      <w n="16-22">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="16-1">
+        <text>Me</text>
+        <refs nrefs="16-1 16-2"/>
+      </w>
+      <w n="16-2">
+        <text>my</text>
+        <refs nrefs="16-3"/>
+      </w>
+      <w n="16-3">
+        <text>Venus</text>
+        <refs nrefs="16-4"/>
+      </w>
+      <w n="16-4">
+        <text>torments</text>
+        <refs nrefs="16-6"/>
+      </w>
+      <w n="16-5">
+        <text>with</text>
+        <refs nrefs="16-5"/>
+      </w>
+      <w n="16-6">
+        <text>bitter</text>
+        <refs nrefs="16-7"/>
+      </w>
+      <w n="16-7">
+        <text>nights</text>
+        <refs nrefs="16-5"/>
+      </w>
+      <w n="16-8">
+        <text>,</text>
+      </w>
+      <w n="16-9">
+        <text>and</text>
+        <refs nrefs="16-9"/>
+      </w>
+      <w n="16-10">
+        <text>Love</text>
+        <refs nrefs="16-14"/>
+      </w>
+      <w n="16-11">
+        <text>at</text>
+        <refs nrefs="16-12"/>
+      </w>
+      <w n="16-12">
+        <text>no</text>
+        <refs nrefs="16-10"/>
+      </w>
+      <w n="16-13">
+        <text>time</text>
+        <refs nrefs="16-12"/>
+      </w>
+      <w n="16-14">
+        <text>grants</text>
+        <refs nrefs="16-13"/>
+      </w>
+      <w n="16-15">
+        <text>me</text>
+        <refs nrefs="16-13"/>
+      </w>
+      <w n="16-16">
+        <text>a</text>
+        <refs nrefs="16-11"/>
+      </w>
+      <w n="16-17">
+        <text>respite</text>
+        <refs nrefs="16-11"/>
+      </w>
+      <w n="16-18">
+        <text>.</text>
+      </w>
+      <w n="16-19">
+        <text>Avoid</text>
+        <refs nrefs="16-20"/>
+      </w>
+      <w n="16-20">
+        <text>,</text>
+      </w>
+      <w n="16-21">
+        <text>I</text>
+        <refs nrefs="16-18"/>
+      </w>
+      <w n="16-22">
+        <text>warn</text>
+        <refs nrefs="16-18"/>
+      </w>
+      <w n="16-23">
+        <text>you</text>
+        <refs nrefs="16-18"/>
+      </w>
+      <w n="16-24">
+        <text>,</text>
+      </w>
+      <w n="16-25">
+        <text>this</text>
+        <refs nrefs="16-16"/>
+      </w>
+      <w n="16-26">
+        <text>woe</text>
+        <refs nrefs="16-21"/>
+      </w>
+      <w n="16-27">
+        <text>;</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="17" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="17-1">
+        <text>sua</text>
+        <refs nrefs="17-5 17-6"/>
+      </w>
+      <w n="17-2">
+        <text>quemque</text>
+        <refs nrefs="17-2"/>
+      </w>
+      <w n="17-3">
+        <text>moretur</text>
+        <refs nrefs="17-1 17-3"/>
+      </w>
+      <w n="17-4">
+        <text>cura</text>
+        <refs nrefs="17-7"/>
+      </w>
+      <w n="17-5">
+        <text>,</text>
+      </w>
+      <w n="17-6">
+        <text>que</text>
+        <refs nrefs="17-10"/>
+      </w>
+      <w n="17-7">
+        <text>ne</text>
+        <refs nrefs="17-12"/>
+      </w>
+      <w n="17-8">
+        <text>assueto</text>
+        <refs nrefs="17-16"/>
+      </w>
+      <w n="17-9">
+        <text>mutet</text>
+        <refs nrefs="17-11"/>
+      </w>
+      <w n="17-10">
+        <text>amore</text>
+        <refs nrefs="17-17"/>
+      </w>
+      <w n="17-11">
+        <text>locum</text>
+        <refs nrefs="17-14"/>
+      </w>
+      <w n="17-12">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="17-1">
+        <text>let</text>
+        <refs nrefs="17-3"/>
+      </w>
+      <w n="17-2">
+        <text>each</text>
+        <refs nrefs="17-2"/>
+      </w>
+      <w n="17-3">
+        <text>hold</text>
+        <refs nrefs="17-3"/>
+      </w>
+      <w n="17-4">
+        <text>to</text>
+      </w>
+      <w n="17-5">
+        <text>his</text>
+        <refs nrefs="17-1"/>
+      </w>
+      <w n="17-6">
+        <text>own</text>
+        <refs nrefs="17-1"/>
+      </w>
+      <w n="17-7">
+        <text>beloved</text>
+        <refs nrefs="17-4"/>
+      </w>
+      <w n="17-8">
+        <text>one</text>
+      </w>
+      <w n="17-9">
+        <text>,</text>
+      </w>
+      <w n="17-10">
+        <text>and</text>
+        <refs nrefs="17-6"/>
+      </w>
+      <w n="17-11">
+        <text>let</text>
+        <refs nrefs="17-9"/>
+      </w>
+      <w n="17-12">
+        <text>no</text>
+        <refs nrefs="17-7"/>
+      </w>
+      <w n="17-13">
+        <text>one</text>
+      </w>
+      <w n="17-14">
+        <text>abandon</text>
+        <refs nrefs="17-11"/>
+      </w>
+      <w n="17-15">
+        <text>his</text>
+      </w>
+      <w n="17-16">
+        <text>wonted</text>
+        <refs nrefs="17-8"/>
+      </w>
+      <w n="17-17">
+        <text>love</text>
+        <refs nrefs="17-10"/>
+      </w>
+      <w n="17-18">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+  <sentence id="18" document_id="Perseus:text:1999.02.0066">
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L1">
+      <w n="18-1">
+        <text>quod</text>
+        <refs nrefs="18-1"/>
+      </w>
+      <w n="18-2">
+        <text>si</text>
+        <refs nrefs="18-3"/>
+      </w>
+      <w n="18-3">
+        <text>quis</text>
+        <refs nrefs="18-4 18-5"/>
+      </w>
+      <w n="18-4">
+        <text>monitis</text>
+        <refs nrefs="18-12"/>
+      </w>
+      <w n="18-5">
+        <text>tardas</text>
+        <refs nrefs="18-8"/>
+      </w>
+      <w n="18-6">
+        <text>adverterit</text>
+        <refs nrefs="18-6 18-7 18-9 18-10"/>
+      </w>
+      <w n="18-7">
+        <text>auris</text>
+      </w>
+      <w n="18-8">
+        <text>,</text>
+      </w>
+      <w n="18-9">
+        <text>heu</text>
+        <refs nrefs="18-14"/>
+      </w>
+      <w n="18-10">
+        <text>referet</text>
+        <refs nrefs="18-20 18-21 18-22"/>
+      </w>
+      <w n="18-11">
+        <text>quanto</text>
+        <refs nrefs="18-17 18-18"/>
+      </w>
+      <w n="18-12">
+        <text>verba</text>
+        <refs nrefs="18-24"/>
+      </w>
+      <w n="18-13">
+        <text>dolore</text>
+        <refs nrefs="18-16 18-19"/>
+      </w>
+      <w n="18-14">
+        <text>mea</text>
+        <refs nrefs="18-23"/>
+      </w>
+      <w n="18-15">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds xmlns="http://alpheios.net/namespaces/aligned-text" lnum="L2">
+      <w n="18-1">
+        <text>But</text>
+        <refs nrefs="18-1"/>
+      </w>
+      <w n="18-2">
+        <text>,</text>
+      </w>
+      <w n="18-3">
+        <text>if</text>
+        <refs nrefs="18-2"/>
+      </w>
+      <w n="18-4">
+        <text>any</text>
+        <refs nrefs="18-3"/>
+      </w>
+      <w n="18-5">
+        <text>one</text>
+        <refs nrefs="18-3"/>
+      </w>
+      <w n="18-6">
+        <text>shall</text>
+        <refs nrefs="18-6"/>
+      </w>
+      <w n="18-7">
+        <text>be</text>
+        <refs nrefs="18-6"/>
+      </w>
+      <w n="18-8">
+        <text>slow</text>
+        <refs nrefs="18-5"/>
+      </w>
+      <w n="18-9">
+        <text>to</text>
+        <refs nrefs="18-6"/>
+      </w>
+      <w n="18-10">
+        <text>heed</text>
+        <refs nrefs="18-6"/>
+      </w>
+      <w n="18-11">
+        <text>my</text>
+      </w>
+      <w n="18-12">
+        <text>warnings</text>
+        <refs nrefs="18-4"/>
+      </w>
+      <w n="18-13">
+        <text>,</text>
+      </w>
+      <w n="18-14">
+        <text>alas</text>
+        <refs nrefs="18-9"/>
+      </w>
+      <w n="18-15">
+        <text>!</text>
+      </w>
+      <w n="18-16">
+        <text>with</text>
+        <refs nrefs="18-13"/>
+      </w>
+      <w n="18-17">
+        <text>how</text>
+        <refs nrefs="18-11"/>
+      </w>
+      <w n="18-18">
+        <text>great</text>
+        <refs nrefs="18-11"/>
+      </w>
+      <w n="18-19">
+        <text>grief</text>
+        <refs nrefs="18-13"/>
+      </w>
+      <w n="18-20">
+        <text>will</text>
+        <refs nrefs="18-10"/>
+      </w>
+      <w n="18-21">
+        <text>he</text>
+        <refs nrefs="18-10"/>
+      </w>
+      <w n="18-22">
+        <text>remember</text>
+        <refs nrefs="18-10"/>
+      </w>
+      <w n="18-23">
+        <text>my</text>
+        <refs nrefs="18-14"/>
+      </w>
+      <w n="18-24">
+        <text>words</text>
+        <refs nrefs="18-12"/>
+      </w>
+      <w n="18-25">
+        <text>!</text>
+      </w>
+    </wds>
+  </sentence>
+</aligned-text>
