@@ -1,7 +1,7 @@
 <aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
     <language lnum="L1" xml:lang="lat"/>
     <language lnum="L2" xml:lang="eng"/>
-    <sentence>
+    <sentence id="1">
         <wds lnum="L1">
             <w n="1-1">
                 <text>Is</text>
