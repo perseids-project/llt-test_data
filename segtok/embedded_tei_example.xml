@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<reply>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc xml:id="modr-n-cons">
+        <titleStmt>
+          <title>De consolatione liber, versio electronica</title>
+          <author key="nikolamodr01">
+            <name xml:lang="hr">Nikola Modruški</name>
+            <date>c. 1427-1480</date>
+          </author>
+          <editor>Neven Jovanović</editor>
+          <respStmt>
+            <resp>Hanc editionem electronicam curavit</resp>
+            <name>Neven Jovanović</name>
+          </respStmt>
+        </titleStmt>
+        <extent ana="C">Mg:C Verborum 79291</extent>
+        <publicationStmt>
+          <p>elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu
+            Sveučilišta u Zagrebu, Hrvatska. <date>lipanj 2005</date></p>
+        </publicationStmt>
+        <sourceDesc>
+
+          <bibl>Nicolai Modrussiensis De consolatione liber, u Hrvatska književna baština 1, ur.
+            D. Fališevac, J. Lisac, D. Novaković, Zagreb 2002, str. 55-251.</bibl>
+
+        </sourceDesc>
+
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1465">ca. 1465-66</date>
+          <placeName>Italija</placeName>
+        </creation>
+        <textClass>
+          <keywords scheme="biblio/croala-catalogus-aetatum.xml#typ01">
+            <term>prosa oratio</term>
+          </keywords>
+          <keywords scheme="biblio/croala-catalogus-aetatum.xml#aet01">
+            <term>Litterae renatae (1400-1600)</term>
+            <term>Saeculum 15 (1401-1500)</term>
+            <term>1451-1500</term>
+          </keywords>
+          <keywords scheme="biblio/croala-catalogus-aetatum.xml#gen01">
+            <term>prosa oratio - tractatus</term>
+          </keywords>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <name>Neven Jovanović</name>
+          <date>2012-05-12</date>
+          2, 3, 6: natura et usus... instituentibus > natura et usu...
+        </change>
+        <change>
+          <name>Neven Jovanović</name>
+          <name>Luka Špoljarić</name>
+          <date>2012-02-15</date>
+          Novo, unificirano zaglavlje.
+        </change>
+        <change>
+          <date>[2011-10-17]</date>
+
+          <name>Neven Jovanović</name>
+          priređivač elektronske verzije
+
+          Premjestio par ref elemenata da bude TEI P5 OK. Zamijenio prelomljene zagrade s add.
+        </change>
+        <change>
+          <date>[2006-01-15T17:48:29+0100]</date>
+
+          <name>Neven Jovanović</name>
+          priređivač elektronske verzije
+
+          Pojednostavio strukturu teksta (podjele do div2 stupnja); Zamijenio "q" s "quote"
+          elementom, nastavio preobliku citata.
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text type="prorsa">
+      <body>
+        <div1>
+          <head>SECVNDVS LIBER<ref type="note" xml:id="r01423" target="n01423" n="1"/>
+          </head>
+
+          <div2>
+
+            <head><add>II 1</add> Quomodo et quibus rationibus sit consolandum<ref type="note" xml:id="r01427" target="n01427" n="1"/></head>
+            <p><!-- 1 --> Nunc dicere superest qua ratione quibusue modis mitigandus sit dolor
+              amici; et quidem hac de causa, ut Cicero in Tusculanis quaestionibus<ref type="note" xml:id="r01438" target="n01438" n="1"/> narrat, uarie sapientes
+              censuerunt. Cleanthes enim putauit unam illam ac simplicem esse consolandi
+              rationem docere illud, quod accidit, malum non esse. At Epicurus, quoniam mala
+              concedit, optime factum ratus est abducere animum a malis ad bona. Peripatetici,
+              utpote qui mediocritatem in omnibus sectantur, officium consolatoris praecipuum
+              statuunt persuadere afflictis non magna mala pati. Chrysippus uero caput censet in
+              consolando inducere animum maerentis se putet in illo labore iusto ac debito
+              officio fungi, nec ulla contumelia aut iniuria affectum; Cyrenaici<ref type="note" xml:id="r01441" target="n01441" n="2"/> lugentem censent admonendum conditionis
+              humanae prudentisque esse officium uniuersas, prius quam accidant, praemeditasse
+              calamitates seque ita comparasse ut nihil eum inparatum offendat. <!-- 2 --> At
+              Cicero haec omnia consolationis medicamina complexus est, et recte quidem. Neque
+              enim omnes similiter mouentur, uerum alius alio et unus quidem grauius quam alter,
+              neque satis exploratum habes quid cui magis conducat; ideo tentanda sunt singula
+              etiam si sint parua uel tenuia, quia, ut ille ait:</p>
+            <p>Fortasse quae non prosunt singula multa iuuant </p>
+            <p>Parua necat morsu spatiosum uipera taurum </p>
+            <p>A cane non magno saepe tenetur aper, </p>
+            <p>Tu tantum numero pugna, praeceptaque in unum </p>
+            <p>Contrahe; de multis grandis aceruus erit.<ref type="note" xml:id="r01461" target="n01461" n="1"/>
+            </p>
+            <p><!-- 3 --> Quam ob rem huius aegritudinis curatori perinde atque prudenti medico
+              faciendum est, qui non bene cognitum morbum uario pharmaco uel cataplasmate tentat
+              diuersisque medelis experitur nec eorum, quae conducere putat, intentatum quicquam
+              relinquit. Nititurque praecipue scitus medicus morbum tollere funditus, aut, si id
+              nequit, dolorem sedare laborat, aut saltem minuere, et si neque id datur,
+              comprimere eum curat, ne in amplius manans sana membra ualeat uitiare. Diuertere
+              quoque minus noxiis itineribus conatur. <!-- 4 --> His rationibus omnis medicorum
+              ars procedit, quarum et medico animae nulla prorsus omittenda est.</p>
+            <p><!-- 5 --> Verum dices: quo pacto istas consequar? Facile, inquam, si ad radicem
+              causamque angoris oculum intendas, quam in principio huius operis explicauimus,
+              ubi diximus radicem originemque<ref type="note" xml:id="r01474" target="n01474" n="1"/> uniuersae aegritudinis
+              opinionem esse malorum, quibus se comprehensum languens ingemiscit et ab his sese
+              explicare contendit. <!-- 6 --> Idcirco qui morbum funditus eradicare cupit,
+              Cleanthis sequatur rationem, Chrysippi uero qui mitigare desiderat; porro qui
+              detrahere dolori uult, peripateticorum obseruet monstrata; qui supprimere,
+              Anaxagorae; et qui abducere aut diuertere, Epicurum non dedignetur praeceptorem.</p>
+            <p><!-- 7 --> Tollitur enim<ref type="note" xml:id="r01483" target="n01483" n="1"/> funditus aegritudo si,
+              quod aegre fertur, doceatur malum minime esse; sedatur uero si iuste eos uel
+              utiliter afflictos declarabimus. Minuitur cum paruum esse persuadetur; cum autem
+              non nouum aut insperatum agnoscitur, comprimitur haud mediocriter; sed diuertitur
+              cum animum ad aliam curam traducimus aut eum noua uoluptate demulcemus.</p>
+          </div2>
+        </div1>
+      </body>
+    </text>
+  </TEI>
+</reply>
